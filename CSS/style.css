@@ -243,6 +243,7 @@ h3 {
 /* animation used from chatgpt for making transitions in cv section.*/
 /*VERSION : ELEGANT FADE + SCALE REVEAL*/
 
+
 .hover-block {
   position: relative;
   margin: 20px 0;
@@ -279,7 +280,7 @@ h3 {
 }
 
 
-/* */
+
 .image-hover-block {
   position: relative;
   width: 500px;      
@@ -296,6 +297,7 @@ h3 {
 }
 
 /* Overlay text used to display text when clicked on the pictures in the about myself pictures. */
+ /* ww3 schools fade in overlay */
 .image-hover-block .overlay {
   position: absolute;
   top: 0; left: 0;
