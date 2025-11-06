@@ -357,6 +357,7 @@ h3 {
 }
 
 /* items stack verticaly if smaller than 900px */
+/* responsive behavior */
 @media (max-width: 900px) {
   .grid-row {
     flex-direction: column;
@@ -437,7 +438,7 @@ img:hover {
 }
 
 
-
+/* body for contact */
 .contact {
   font-family: Arial, sans-serif;
   background: #f5f5f5;
@@ -446,7 +447,7 @@ img:hover {
 }
 
 
-/* for headingg in h2  */
+/* for heading in of contact*/
 h2 {
   text-align: center;
   margin-bottom: 20px;
@@ -476,7 +477,7 @@ textarea:focus {
   box-shadow: 0 0 5px rgba(255, 64, 129, 0.4);
 }
 
-/* button in thank u  */
+/* button in contact  */
 button {
   padding: 12px;
   border: none;
